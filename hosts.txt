@@ -11,7 +11,7 @@
 127.0.0.1 ww3.sinaimg.cn
 127.0.0.1 ww4.sinaimg.cn
 127.0.0.1 www.myfontfree.com
-127.0.0.1 
+127.0.0.1 www.xfpluy.com
 127.0.0.1 
 127.0.0.1 
 127.0.0.1 
